@@ -1,6 +1,8 @@
 # degree-of-profanity
 Check the degree of profanity
 
+to run the code type in terminal : node main
+
 
 ### Code explanation
 
